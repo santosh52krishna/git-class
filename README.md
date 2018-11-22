@@ -1,2 +1,2 @@
 # git-class
-git merge test1
+git merge test
